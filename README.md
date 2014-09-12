@@ -1,4 +1,4 @@
-ORK (Objecjts R Kool) language
+ORK (Objects R Kool) language
 ==============================
 
 The ORK language is a verbose Object Oriented language created by Gregor Richards ([ORK Website](http://codu.org/eso/#ORK)). The last
